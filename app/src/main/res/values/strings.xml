@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LearnKotlin</string>
+    <string name="click">click</string>
+
+    //NUESTRAS VARIABLES STRING, agramaso el nombre de la variable y luego el valor
+    <string name="male">Hombre</string>
+    <string name="female">Mujer</string>
+
+
+</resources>
